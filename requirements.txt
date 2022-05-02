@@ -1,0 +1,7 @@
+django
+pytest
+pytest-django
+requests
+flake8
+mypy
+black
